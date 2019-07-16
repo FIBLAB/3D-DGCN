@@ -1,2 +1,3 @@
 # 3D-DGCN
-This is code for 3D Dynamic Graph Convolutional Networks for Crowd Flow Prediction
+
+An implementation of 3D-DGCN. The paper is submitted to ICDE 2020.
